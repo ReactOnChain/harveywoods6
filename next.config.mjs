@@ -6,7 +6,7 @@ export const sql = postgres(process.env.POSTGRES_URL, {
 
 const nextConfig = {
   experimental: {
-    ppr: true,
+    // ppr: true, // Commented out or remove this line
   },
   logging: {
     fetches: {
