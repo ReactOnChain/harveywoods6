@@ -55,3 +55,4 @@ CREATE TABLE views (
 3. Crediting the author is appreciated.
 
 Please remove all of my personal information (blog posts, images, etc.) by running `bun run setup`.
+// Another deployment trigger
